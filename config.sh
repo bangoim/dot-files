@@ -1,4 +1,4 @@
-DOTFILES=(.gitconfig .zshrc)
+DOTFILES=(.gitconfig .zshrc .hushlogin .p10k.zsh)
 
 for dotfile in $(echo ${DOTFILES[*]});
 do
