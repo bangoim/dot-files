@@ -1,0 +1,7 @@
+[user]
+	name = bangoim
+	email = joaocbbc@outlook.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
